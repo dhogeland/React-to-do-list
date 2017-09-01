@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+.app-main {}
+
+.app-headline {
+  text-align: center;
+}
+
+.app-input {
+text-align: center;
+}
+
+.list-ul {
+  list-style-type: none;
+}
+
+.unfinished-task {
+  float: left;
+  margin-left: 10vw;
+}
+
+.completed-task {
+  float: right;
+  margin-right: 10vw;
+}
